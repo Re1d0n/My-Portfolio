@@ -1,5 +1,98 @@
 img {
     width: 300px;
     height: auto;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
 }
 
+#myName {
+   text-align: center;
+   color: orangered;
+   margin: auto;
+   border: 3px;
+   padding: 5px;
+   background-color: darkred;
+}
+
+#aboutMe {
+text-align: center;
+color: orangered;
+margin: auto;
+border: 3px;
+padding: 5px;
+background-color: darkred;
+}
+
+
+#myWork {
+text-align: center;
+color: orangered;
+margin: auto;
+border: 3px;
+padding: 5px;
+background-color: darkred;
+}
+
+#photo2 {
+    width: 300px;
+    height: auto;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+#myContactInfo {
+text-align: center;
+color: orangered;
+margin: 3px;
+border: 3px;
+padding: 5px;
+background-color: darkred;
+}
+
+.infotop1 {
+text-align: left;
+float: left;
+width: 25%;
+color: orange;
+background-color: red;
+border: 20px;
+}
+
+
+.infotop2 {
+text-align: center;
+float: left;
+width: 50%;
+color: orange;
+background-color: red;
+}
+
+.infotop3 {
+text-align: right;
+float: right;
+width: 25%;
+color: orange;
+background-color: red;
+}
+
+
+.info {
+    text-align: center;
+    color: orange;
+    background-color: red;
+}
+
+
+
+.contact {
+    text-align: center;
+    color: orange;
+    background-color: red;
+    margin:0px;
+    padding: 0px;
+}
